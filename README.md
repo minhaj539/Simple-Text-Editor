@@ -1,5 +1,5 @@
 # Simple-Text-Editor
- A Simple Text Editor Designed by using JAVA SWING, AWT which performs the following Operations :- 
+ A Simple Text Editor Designed by using JAVA SWING and AWT which performs the following Operations :- 
 
 -> Create New text File.
 
